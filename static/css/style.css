@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9fafb;
+    
+}
+
+#shortern-container{
+    background-color: #f9fafb;
+    width:100% !important;
+}
+#shortern-container h2{
+    margin-bottom: 10px;
+    font-family:Poppins;
+    font-weight: 600;
+    color:#000;
+}
+#shortern-container button{
+    font-family:Poppins;
+    font-weight: 300;
+    background-color: #000;
+}
+#link-result{
+    font-size: 15px;
+    margin-top: 30px;
+}
